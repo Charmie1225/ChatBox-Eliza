@@ -1,5 +1,4 @@
-//https://youtu.be/TliQUaOB2Ok
-//https://www.dropbox.com/scl/fi/0kpey9691mml8af94ei2x/Project2-video.mp4?rlkey=rxk863qi562g7jdvyqfi86r4o&dl=0
+
 import java.util.Scanner;
 
 public class ProjectEliza {
