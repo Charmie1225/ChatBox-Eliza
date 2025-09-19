@@ -1,5 +1,5 @@
 # ChatBox-Eliza
-This is a simple Java chatbot called Eliza. It loves talking about TV shows!
+This is a simple Java chatbot called Eliza.
 It greets the user and asks for their name.
 It will ask the user about their favorite TV shows.
 It will answer based on the user use of punctiation.
